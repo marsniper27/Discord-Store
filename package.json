@@ -1,0 +1,17 @@
+{
+  "name": "discord-store",
+  "version": "1.0.0",
+  "description": "A simple Discord store able to work with the Solana Wallet library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "env": "^0.0.2",
+    "mars-simple-mongodb": "^0.1.0"
+  }
+}
